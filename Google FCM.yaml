@@ -9,6 +9,9 @@ payload:
   - DOMAIN,alt7-mtalk.google.com
   - DOMAIN,alt8-mtalk.google.com
   - DOMAIN,mtalk.google.com
+  - DOMAIN,translate.google.com
+  - DOMAIN,translate.googleapis.com
+  - DOMAIN,*.googleapis.com
   - IP-CIDR,64.233.177.188/32,no-resolve
   - IP-CIDR,64.233.186.188/32,no-resolve
   - IP-CIDR,64.233.187.188/32,no-resolve
